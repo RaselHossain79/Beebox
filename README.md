@@ -117,14 +117,6 @@ For every vuln, record:
 
 ---
 
-## 🗂️ Phase 3 — Repository Structurmd
-
-
-bee-box/ │ ├── SQL-Injection/ │   ├── README.md │   ├── payloads.txt │ ├── Command-Injection/ │   ├── README.md │ ├── XSS/ │   ├── reflected.md │   ├── stored.md │ ├── Notes/ │   ├── methodology.md │ └── Tools/ ├── burp.md ├── sqlmap.md
-
-
----
-
 ## ⏱️ Daily Practice Routine
 
 ✅ Even **1 vulnerability/day** is excellent progress.
